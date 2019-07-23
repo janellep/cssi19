@@ -1,0 +1,27 @@
+h1
+{
+  color: red;
+  font-size: 20em;
+  font-family: monospace;
+}
+h2
+{
+  color: blue;
+  font-size: 4em;
+  font-family: serif;
+}
+
+a{
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+ul
+{
+  list-style-image: circle;
+}
+
+img none;{
+  width: 4px
+  height: 4px
+}
